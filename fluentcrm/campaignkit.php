@@ -18,7 +18,7 @@ if ( !defined('ABSPATH') ) {
     die;
 }
 
-const API_KEY = "<<CAMPAIGNKIT API KEY>>";
+const API_KEY = "NkZAjNX8A4IUfXMb3tKV30BfTDFOkIkfWeXEVygqlkkKd33u";
 const FLUENT_INVALID_TAG_ID = 1; // FLuent tag id to use to mark invalid email addresses.
 
 function debug_log( $msg, $name = '' ) {
